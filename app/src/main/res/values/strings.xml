@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="text_turn_x">Player turn: X</string>
+    <string name="btn_reset">Reset</string>
+    <string name="text_tic_tac_toe">Tic Tac Toe</string>
+    <string name="text_up_s_s_s">Up-s-s-s!</string>
+    <string name="text_no_internet">No internet connection</string>
+    <string name="text_to_retry">To retry</string>
+</resources>
